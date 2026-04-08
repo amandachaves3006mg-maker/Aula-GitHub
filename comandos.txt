@@ -1,0 +1,32 @@
+Coloque a descrição de cada um dos seguintes comandos :
+ e faça uma atualização no GiHub
+
+ Git status-> É utilizado para mostrar o que foi alterado.
+
+ Git add . ->É utilizado para adicionar arquivos para salvar.
+
+ Git commit -m "Mensagem" ->É utilizado para salvar alterações com uma mnsagem
+
+ Git log ->É utilizado para mostrar o histórico de commits.
+
+Git pull->É utilizado para baixar atualizações do repositório.
+
+ Git push -> É utilizado para enviar suas atualizações para GiHub
+
+ Git branch ->`É utilizado para mostrar as branches
+
+ Git branch nome-da-branch ->É utilizado para criar uma nova branch
+
+ Git checkout ->É utilizado para criar/iniciar um repositório Git na pasta
+
+ Git init ->É utilizado para inicializção do rastreio de um novo repositório
+
+ Depois de colocar a descrição de cada um dos comandos
+ coloque a ordem em que devem ser executados para salvar
+as alterações no GiHub
+
+Comandos:
+-git init
+-git add .
+-git commit -m "Mensagem"
+-git
